@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Bienvenidos a la segunda página!"
+title: "Bienvenidos a la segunda página
 ---
-Tu texto
+Hola que empieze la fiesta
 Utiliza la flecha hacia la izquierda para volver!
